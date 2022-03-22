@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\bin\Debug\nasljedivanjeBrojevi.exe.config
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\bin\Debug\nasljedivanjeBrojevi.exe
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\bin\Debug\nasljedivanjeBrojevi.pdb
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\obj\Debug\nasljedivanjeBrojevi.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\obj\Debug\nasljedivanjeBrojevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\obj\Debug\nasljedivanjeBrojevi.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\obj\Debug\nasljedivanjeBrojevi.exe
+C:\Users\ucenik\source\repos\nasljedivanjeBrojevi\obj\Debug\nasljedivanjeBrojevi.pdb
